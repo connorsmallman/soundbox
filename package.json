@@ -1,0 +1,15 @@
+{
+  "name": "sounddeck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Smallman",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "elgato-stream-deck": "^4.0.1",
+    "node-audiorecorder": "^2.2.0"
+  }
+}
